@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/wood1.jpg</file>
+        <file>res/stone1.jpg</file>
+        <file>res/stone2.jpg</file>
+        <file>res/stone3.jpg</file>
+        <file>res/stone4.jpg</file>
+        <file>res/stone5.jpg</file>
+        <file>res/stone6.jpg</file>
+        <file>res/wood2.jpg</file>
+        <file>res/wood3.jpg</file>
+        <file>res/stone8.jpg</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>res/chars.unicode</file>
+        <file>res/chars.ansi</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>res/kcmkwm.ico</file>
+        <file>res/arrow.ico</file>
+    </qresource>
+</RCC>
